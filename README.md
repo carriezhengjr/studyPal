@@ -16,7 +16,8 @@ This project is inspired by our struggles with time management and managing stre
 
 # Instructions for Use
 
-- We have deployed our web application using Amazon Web Services (AWS Lambda) [here](https://main.d3r58pu37lx7ze.amplifyapp.com).
+- ~~We have deployed our web application using Amazon Web Services (AWS Lambda) [here](https://main.d3r58pu37lx7ze.amplifyapp.com).~~
+- I have deployed our web application using GitHub Pages [here](https://carriezhengjr.github.io/studypal/), so that the site can always be available!
 - Alternatively, run `npm start` in the terminal to run the project locally.
     - More information can be found under the section "Getting Started with Create React App" below.
 
@@ -63,7 +64,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000/studypal](http://localhost:3000/studypal) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
